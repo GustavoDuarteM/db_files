@@ -18,6 +18,8 @@
 --
 -- Table structure for table `AREA`
 --
+create DATABASE teste;
+use teste;
 
 DROP TABLE IF EXISTS `AREA`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
